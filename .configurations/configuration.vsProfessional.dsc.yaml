@@ -51,4 +51,5 @@ properties:
       settings:
         id: Nasm.Nasm
         source: winget
-  configurationVersion: 0.1.0
+  configurationVersion: 20.0
+   
